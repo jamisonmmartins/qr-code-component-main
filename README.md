@@ -16,10 +16,10 @@ Este é o meu primeiro desafio na plataforma Frontend Mentor, com o objetivo de 
   - [Screenshot | Captura de Tela](#screenshot--captura-de-tela)
   - [Links](#links)
 - [My process | Meu processo](#my-process--meu-processo)
-  - [Built with | Construído com](#built-with--construido-com)
+  - [Built with | Construído com](#built-with--construído-com)
   - [What I learned | O que eu aprendi](#what-i-learned--o-que-eu-aprendi)
   - [Continued development | Desenvolvimento contínuo](#continued-development--desenvolvimento-continuo)
-  - [Useful resources | Recursos úteis](#useful-resources--recursos-uteis)
+  - [Useful resources | Recursos úteis](#useful-resources--recursos-úteis)
 - [Author | Autor](#author--autor)
 - [Acknowledgments | Agradecimentos](#acknowledgments--agradecimentos)
 
