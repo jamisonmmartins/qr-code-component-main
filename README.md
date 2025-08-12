@@ -13,15 +13,15 @@ Este é o meu primeiro desafio na plataforma Frontend Mentor, com o objetivo de 
 ## Table of contents | Tabela de conteúdo
 
 - [Overview | Visão geral](#overview--visão-geral)
-  - [Screenshot | Captura de Tela](#screenshot)
+  - [Screenshot | Captura de Tela](#screenshot--captura-de-tela)
   - [Links](#links)
-- [My process | Meu processo](#my-process)
-  - [Built with | Construído com](#built-with)
-  - [What I learned | O que eu aprendi](#what-i-learned)
-  - [Continued development | Desenvolvimento contínuo](#continued-development)
-  - [Useful resources | Recursos úteis](#useful-resources)
-- [Author | Autor](#author)
-- [Acknowledgments | Agradecimentos](#acknowledgments)
+- [My process | Meu processo](#my-process--meu-processo)
+  - [Built with | Construído com](#built-with--construido-com)
+  - [What I learned | O que eu aprendi](#what-i-learned--o-que-eu-aprendi)
+  - [Continued development | Desenvolvimento contínuo](#continued-development--desenvolvimento-continuo)
+  - [Useful resources | Recursos úteis](#useful-resources--recursos-uteis)
+- [Author | Autor](#author--autor)
+- [Acknowledgments | Agradecimentos](#acknowledgments--agradecimentos)
 
 ## Overview | Visão geral
 
