@@ -6,7 +6,7 @@ This is a solution to the [QR code component challenge in Frontend Mentor](https
 This is my first challenge on the Frontend Mentor platform, aimed at practicing and improving my HTML and CSS writing and styling skills. The main focus of the project is to analyze a proposed design and write the code necessary to accurately reproduce it. This exercise allows me to improve my ability to create faithful and responsive layouts from a visual design.
 ___
 
-Esta é uma solução para o [desafio do componente de código QR no Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Os desafios do Frontend Mentor ajudam você a aprimorar suas habilidades de codificação criando projetos realistas.
+Esta é uma solução para o [desafio do componente de QR Code no Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Os desafios do Frontend Mentor ajudam você a aprimorar suas habilidades de codificação criando projetos realistas.
 
 Este é o meu primeiro desafio na plataforma Frontend Mentor, com o objetivo de praticar e aprimorar minhas habilidades de escrita e estilização em HTML e CSS. O foco principal do projeto é analisar um design proposto e escrever o código necessário para reproduzi-lo com precisão. Esse exercício permite melhorar a capacidade de criar layouts fiéis e responsivos a partir de um design visual.
 
