@@ -32,7 +32,7 @@ Este é o meu primeiro desafio na plataforma Frontend Mentor, com o objetivo de 
 ### Links
 
 - Solution URL | Repositório: [Add solution site URL here](https://your-solution-url.com) <!-- Repositório -->
-- Live Site URL | Deploy: [Add live site URL here](https://your-live-site-url.com) <!-- Deploy -->
+- Live Site URL | Deploy: [https://jamisonmmartins.github.io/qr-code-component-main/](https://jamisonmmartins.github.io/qr-code-component-main/) <!-- Deploy -->
 
 ## My process | Meu processo
 
