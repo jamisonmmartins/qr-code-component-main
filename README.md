@@ -12,7 +12,7 @@ Este é o meu primeiro desafio na plataforma Frontend Mentor, com o objetivo de 
 
 ## Table of contents | Tabela de conteúdo
 
-- [Overview](#Overview | Visão geral)(#overview--visão-geral)
+- [Overview | Visão geral](#overview--visão-geral)
   - [Screenshot | Captura de Tela](#screenshot)
   - [Links](#links)
 - [My process | Meu processo](#my-process)
