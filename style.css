@@ -74,6 +74,12 @@ body {
 footer {
   font-size: 1.4rem;
   margin-top: 2rem;
+
+  color: var(--slate900);
+}
+
+footer p {
+  margin-bottom: 0.3rem;
 }
 
 .attribution { font-size: 11px; text-align: center; }
